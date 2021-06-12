@@ -1,0 +1,148 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  body
+  {
+    margin: 0 0 50px;
+      background-color: rgb(70, 83, 202);
+      background-image: url("arche.jpg");
+      background-size: cover;
+  
+  }
+ul{
+    width: auto;
+    float: left;
+    margin-top: 8px;
+}  
+  li
+{
+    display: inline-block;
+    padding: 15px 30px;
+}
+a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: rgb(255, 255, 255);
+   transition: 0.5s;
+}
+nav
+{
+background-color: rgb(52, 62, 160);
+margin-left: 0px;
+padding-bottom: 50px;
+font-family: 'Mate SC', serif;
+
+}
+nav li
+{
+    color: gold;
+}
+
+#left-side
+{
+    float: left;
+    color: cornsilk;
+    margin-right:20px;
+    font-size: 17px;
+    font-family: 'Mate SC', serif;
+    margin-left: -340px;
+}
+#mid-side
+{
+    float: left;
+    color: cornsilk;
+    font-size: 17px;
+    margin-right:20px;
+    font-family: 'Mate SC', serif;
+}
+#right-side
+{
+    float: left;
+    color: cornsilk;
+    font-size: 17px;
+    font-family: 'Mate SC', serif;
+}
+
+.footer
+{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    color: cornsilk;
+    background-color: rgb(15, 18, 44);
+    padding:10px;
+    font-family: 'Mate SC', serif;
+    
+}
+
+form
+{
+    margin-left: 385px;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    margin-top: auto;
+    padding: 5px;
+    width: 800px;
+
+}
+body  h2
+{
+    text-align: left;
+    color: rgb(255, 255, 255);
+    font-family: 'Dosis', sans-serif;
+}
+table
+{
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+    color: rgb(255, 255, 255);
+}
+#Comment
+{
+    color: blue;
+}
+#fname
+{
+    color: blue;
+}
+#lname
+{
+    color: blue;
+}
+#phone
+{
+    color: blue;
+}
+#email
+{
+    color: blue;
+}
+#blogTable
+{
+   color: white;
+  
+}
+
+#outer-container h3
+{
+    color: white;
+    text-align: left;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+}
+#outer-container p
+{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+}
